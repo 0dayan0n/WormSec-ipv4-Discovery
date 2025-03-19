@@ -1,7 +1,7 @@
 
 # Description
 This tool helps you to find the server real ip address protected behind services like **Cloudflare, Akamai, and others WAF/CDN services**... <br /> <br />
-**More explained post about this tool:** <br /> https://infosecwriteups.com/find-real-website-ip-bruteforcing-ipv4-ranges-c1e9ab2941e7
+**More explained post about this tool:** <br /> https://www.youtube.com/watch?v=hPXVdb247wc&t=17s
 # How it works?
 Giving a hostname (site.com), a website html match (ex: "welmcome to site.com") and an ipv4 addresses or range list, this tool will send http/s requests to all ipv4 addresses checking if any of them responds with the match.
 
