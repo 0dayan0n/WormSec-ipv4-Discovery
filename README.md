@@ -31,5 +31,5 @@ optional arguments:
 
 Example command:
 ```sh
-./real_ip_discover.py "aboutme.info" 0.0.0.0/24 "<title>Welcome to aboutme.info"
+./wormip.py "aboutme.info" 0.0.0.0/24 "<title>Welcome to aboutme.info"
 ```
